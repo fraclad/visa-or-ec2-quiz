@@ -1,0 +1,433 @@
+[
+    {
+      "type": "T2",
+      "desc": "Burstable performance instances offering baseline CPU performance with the ability to burst above the baseline.",
+      "tag": "AWS"
+    },
+    {
+      "type": "T3",
+      "desc": "Next-generation burstable performance instances with improved performance and efficiency.",
+      "tag": "AWS"
+    },
+    {
+      "type": "T3A",
+      "desc": "AMD-based burstable instances that offer a cost-effective option for variable workloads.",
+      "tag": "AWS"
+    },
+    {
+      "type": "T4G",
+      "desc": "Burstable instances powered by AWS Graviton2 processors for improved price/performance.",
+      "tag": "AWS"
+    },
+    {
+      "type": "M1",
+      "desc": "First-generation general purpose instances offering a balance of compute, memory, and network resources.",
+      "tag": "AWS"
+    },
+    {
+      "type": "M3",
+      "desc": "General purpose instances offering a balance of compute, memory, and storage resources for a variety of workloads.",
+      "tag": "AWS"
+    },
+    {
+      "type": "M3A",
+      "desc": "AMD-based general purpose instances offering cost savings for diverse workloads.",
+      "tag": "AWS"
+    },
+    {
+      "type": "M4",
+      "desc": "General purpose instances providing a balanced mix of compute, memory, and network resources optimized for moderate workloads.",
+      "tag": "AWS"
+    },
+    {
+      "type": "M5",
+      "desc": "Latest generation general purpose instances offering a balanced mix of compute, memory, and network performance.",
+      "tag": "AWS"
+    },
+    {
+      "type": "M5A",
+      "desc": "AMD-based general purpose instances providing cost-effective performance for a range of applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "M5N",
+      "desc": "General purpose instances with enhanced networking capabilities for improved performance.",
+      "tag": "AWS"
+    },
+    {
+      "type": "M5ZN",
+      "desc": "High-frequency general purpose instances optimized for applications that benefit from high compute performance.",
+      "tag": "AWS"
+    },
+    {
+      "type": "M6G",
+      "desc": "General purpose instances powered by AWS Graviton2 processors offering significant price/performance benefits.",
+      "tag": "AWS"
+    },
+    {
+      "type": "M6I",
+      "desc": "Latest generation Intel-based general purpose instances balancing compute, memory, and networking.",
+      "tag": "AWS"
+    },
+    {
+      "type": "M6A",
+      "desc": "AMD-based general purpose instances that deliver cost savings while balancing compute, memory, and network resources.",
+      "tag": "AWS"
+    },
+    {
+      "type": "C1",
+      "desc": "First-generation compute-optimized instances designed for high-performance processing.",
+      "tag": "AWS"
+    },
+    {
+      "type": "C3",
+      "desc": "Compute-optimized instances designed for compute-intensive workloads.",
+      "tag": "AWS"
+    },
+    {
+      "type": "C4",
+      "desc": "Compute-optimized instances offering high performance for compute-intensive applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "C5",
+      "desc": "Latest generation compute-optimized instances delivering high compute performance for demanding applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "C5A",
+      "desc": "AMD-based compute-optimized instances offering cost-effective high compute performance.",
+      "tag": "AWS"
+    },
+    {
+      "type": "C5N",
+      "desc": "Compute-optimized instances with enhanced networking for high performance in network-intensive applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "C6G",
+      "desc": "Compute-optimized instances powered by AWS Graviton2 processors for improved energy efficiency and performance.",
+      "tag": "AWS"
+    },
+    {
+      "type": "C6I",
+      "desc": "Intel-based compute-optimized instances delivering robust compute performance for intensive workloads.",
+      "tag": "AWS"
+    },
+    {
+      "type": "R3",
+      "desc": "Older generation memory-optimized instances designed for memory-intensive applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "R4",
+      "desc": "Memory-optimized instances for workloads that require significant memory capacity.",
+      "tag": "AWS"
+    },
+    {
+      "type": "R5",
+      "desc": "Latest generation memory-optimized instances offering high memory capacity for demanding applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "R5A",
+      "desc": "AMD-based memory-optimized instances providing cost savings for memory-intensive workloads.",
+      "tag": "AWS"
+    },
+    {
+      "type": "R5N",
+      "desc": "Memory-optimized instances with enhanced networking for improved performance in data-intensive applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "R6G",
+      "desc": "Memory-optimized instances powered by AWS Graviton2 processors for high memory capacity with improved performance.",
+      "tag": "AWS"
+    },
+    {
+      "type": "R6I",
+      "desc": "Intel-based memory-optimized instances designed for demanding memory-intensive workloads.",
+      "tag": "AWS"
+    },
+    {
+      "type": "X1",
+      "desc": "Instances optimized for large-scale, in-memory applications such as high-performance databases.",
+      "tag": "AWS"
+    },
+    {
+      "type": "X1E",
+      "desc": "Instances offering even higher memory capacity for extremely memory-intensive applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "Z1D",
+      "desc": "Instances that deliver high compute performance with high frequencies along with a balanced amount of memory.",
+      "tag": "AWS"
+    },
+    {
+      "type": "P2",
+      "desc": "GPU-based instances designed for machine learning, high-performance computing, and general GPU compute applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "P3",
+      "desc": "High-performance GPU instances optimized for compute-intensive machine learning and HPC applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "P4",
+      "desc": "Latest generation GPU instances for advanced machine learning and high-performance computing workloads.",
+      "tag": "AWS"
+    },
+    {
+      "type": "G2",
+      "desc": "GPU-based instances tailored for graphics-intensive applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "G3",
+      "desc": "GPU-based instances suitable for graphics-intensive and machine learning workloads.",
+      "tag": "AWS"
+    },
+    {
+      "type": "G4",
+      "desc": "Latest GPU instances optimized for machine learning inference and graphics applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "F1",
+      "desc": "Instances equipped with FPGAs for customizable hardware acceleration of specialized applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "INF1",
+      "desc": "Instances designed specifically for machine learning inference, offering high performance and low latency.",
+      "tag": "AWS"
+    },
+    {
+      "type": "I2",
+      "desc": "Older generation storage-optimized instances built for high random I/O performance.",
+      "tag": "AWS"
+    },
+    {
+      "type": "I3",
+      "desc": "High I/O instances optimized for low latency and high random I/O performance for transactional workloads.",
+      "tag": "AWS"
+    },
+    {
+      "type": "I3EN",
+      "desc": "Instances offering high storage density and enhanced random I/O performance.",
+      "tag": "AWS"
+    },
+    {
+      "type": "D2",
+      "desc": "Dense storage instances built for data warehousing, Hadoop, and other data-intensive distributed applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "D3",
+      "desc": "Dense storage instances optimized for data-intensive workloads requiring high sequential read and write throughput.",
+      "tag": "AWS"
+    },
+    {
+      "type": "D3EN",
+      "desc": "Enhanced storage instances providing high storage density and throughput for demanding applications.",
+      "tag": "AWS"
+    },
+    {
+      "type": "H1",
+      "desc": "Storage optimized instances designed for high disk throughput and handling large datasets.",
+      "tag": "AWS"
+    },
+    {
+      "type": "B1",
+      "desc": "Temporary visitor visa for business-related travel.",
+      "tag": "VISA"
+    },
+    {
+      "type": "B2",
+      "desc": "Temporary visitor visa for tourism, vacation, or medical treatment.",
+      "tag": "VISA"
+    },
+    {
+      "type": "F1",
+      "desc": "Visa for academic students pursuing full-time studies in the U.S.",
+      "tag": "VISA"
+    },
+    {
+      "type": "F2",
+      "desc": "Dependent visa for immediate family members of F-1 students.",
+      "tag": "VISA"
+    },
+    {
+      "type": "M1",
+      "desc": "Visa for vocational or non-academic students enrolled in technical or vocational programs.",
+      "tag": "VISA"
+    },
+    {
+      "type": "M2",
+      "desc": "Dependent visa for immediate family members of M-1 students.",
+      "tag": "VISA"
+    },
+    {
+      "type": "J1",
+      "desc": "Exchange visitor visa for individuals participating in approved exchange programs.",
+      "tag": "VISA"
+    },
+    {
+      "type": "J2",
+      "desc": "Dependent visa for immediate family members of J-1 exchange visitors.",
+      "tag": "VISA"
+    },
+    {
+      "type": "H1B",
+      "desc": "Visa for specialty occupation workers requiring specialized knowledge and a bachelor's degree or higher.",
+      "tag": "VISA"
+    },
+    {
+      "type": "H2A",
+      "desc": "Visa for temporary agricultural workers coming to the U.S. for seasonal work.",
+      "tag": "VISA"
+    },
+    {
+      "type": "H2B",
+      "desc": "Visa for temporary non-agricultural workers filling seasonal or intermittent jobs.",
+      "tag": "VISA"
+    },
+    {
+      "type": "H3",
+      "desc": "Visa for trainees or participants in special education or training programs not available in the applicant's home country.",
+      "tag": "VISA"
+    },
+    {
+      "type": "L1",
+      "desc": "Visa for intracompany transferees in managerial positions or with specialized knowledge moving within a company.",
+      "tag": "VISA"
+    },
+    {
+      "type": "L2",
+      "desc": "Dependent visa for immediate family members of L-1 visa holders.",
+      "tag": "VISA"
+    },
+    {
+      "type": "O1",
+      "desc": "Visa for individuals with extraordinary ability or achievement in the sciences, arts, education, business, or athletics.",
+      "tag": "VISA"
+    },
+    {
+      "type": "O2",
+      "desc": "Visa for individuals accompanying and assisting O-1 visa holders in their specific events or performances.",
+      "tag": "VISA"
+    },
+    {
+      "type": "O3",
+      "desc": "Dependent visa for immediate family members of O-1 visa holders.",
+      "tag": "VISA"
+    },
+    {
+      "type": "P1",
+      "desc": "Visa for internationally recognized athletes or entertainers.",
+      "tag": "VISA"
+    },
+    {
+      "type": "P2",
+      "desc": "Visa for artists or entertainers participating in a reciprocal exchange program.",
+      "tag": "VISA"
+    },
+    {
+      "type": "P3",
+      "desc": "Visa for artists or entertainers performing under a culturally unique program.",
+      "tag": "VISA"
+    },
+    {
+      "type": "Q1",
+      "desc": "Visa for participants in an international cultural exchange program.",
+      "tag": "VISA"
+    },
+    {
+      "type": "R1",
+      "desc": "Visa for religious workers coming to the U.S. to work for a nonprofit religious organization.",
+      "tag": "VISA"
+    },
+    {
+      "type": "K1",
+      "desc": "Fiancé(e) visa for foreign-citizen fiancé(e)s of U.S. citizens, allowing entry to the U.S. to marry within 90 days.",
+      "tag": "VISA"
+    },
+    {
+      "type": "K2",
+      "desc": "Dependent visa for children of K-1 visa holders.",
+      "tag": "VISA"
+    },
+    {
+      "type": "K3",
+      "desc": "Visa for the foreign-citizen spouse of a U.S. citizen to help shorten the family separation during the immigration process.",
+      "tag": "VISA"
+    },
+    {
+      "type": "K4",
+      "desc": "Dependent visa for children of K-3 visa holders.",
+      "tag": "VISA"
+    },
+    {
+      "type": "TN",
+      "desc": "Visa for Canadian and Mexican professionals under the USMCA (formerly NAFTA), allowing them to work in specific professional occupations.",
+      "tag": "VISA"
+    },
+    {
+      "type": "DV",
+      "desc": "Diversity Visa granted through the Diversity Visa Lottery program for immigrants from underrepresented countries.",
+      "tag": "VISA"
+    },
+    {
+      "type": "IR1",
+      "desc": "Immigrant visa for spouses of U.S. citizens.",
+      "tag": "VISA"
+    },
+    {
+      "type": "IR2",
+      "desc": "Immigrant visa for unmarried children under 21 of U.S. citizens.",
+      "tag": "VISA"
+    },
+    {
+      "type": "IR3",
+      "desc": "Immigrant visa for orphans adopted abroad by U.S. citizens.",
+      "tag": "VISA"
+    },
+    {
+      "type": "IR4",
+      "desc": "Immigrant visa for orphans to be adopted in the U.S. by U.S. citizens.",
+      "tag": "VISA"
+    },
+    {
+      "type": "IR5",
+      "desc": "Alternate designation for an immigrant visa for spouses of U.S. citizens.",
+      "tag": "VISA"
+    },
+    {
+      "type": "EB1",
+      "desc": "Employment-based immigrant visa for individuals with extraordinary ability, outstanding professors, or multinational executives.",
+      "tag": "VISA"
+    },
+    {
+      "type": "EB2",
+      "desc": "Employment-based immigrant visa for professionals holding advanced degrees or those with exceptional ability.",
+      "tag": "VISA"
+    },
+    {
+      "type": "EB3",
+      "desc": "Employment-based immigrant visa for skilled workers, professionals, and other workers.",
+      "tag": "VISA"
+    },
+    {
+      "type": "EB4",
+      "desc": "Employment-based immigrant visa for special immigrants, including religious workers and other select groups.",
+      "tag": "VISA"
+    },
+    {
+      "type": "EB5",
+      "desc": "Employment-based immigrant visa for investors who invest in a U.S. business that creates jobs.",
+      "tag": "VISA"
+    }
+  ]
+  

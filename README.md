@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AWS vs US VISA QUIZ  
+_The Ultimate Oddity for Cloud Nerds and Visa Buffs_
 
-## Getting Started
+Hey there, internet wanderer. Welcome to the AWS vs US VISA Quiz—a project so weird it makes you question your life choices (in a good way). If you're here, you're probably either deep into cloud computing or stuck thinking about visa paperwork. Either way, buckle up for a wild ride!
 
-First, run the development server:
+---
+
+## What Is This Thing?  
+
+Imagine being confronted with a code like **"M3A"** or **"K1"** and having to decide: Is this an AWS EC2 instance or a US visa type?  
+Yeah, it's bizarre. And that's the beauty of it. We’ve mashed together the world of cloud computing with the thrilling realm of immigration documents to create a quiz that’s as unexpected as it is entertaining.
+
+---
+
+## Features 
+
+- **20 Random Questions:** Because unpredictability is fun.
+- **Instant Feedback:** Answer right? Enjoy a glorious **stonk.png** (for champions). Answer wrong? Gaze upon a not-so-glorious **not stonk.jpeg** (for those moments of truth).
+- **Keyboard Magic:** Hit the **Enter/Return** key after answering to breeze to the next question.
+- **Epic Endings:** Score at least 15 correct answers and you win the internet—with a win message and a stonk image. Score less? You lose, and life happens (with a not stonk image to match).
+
+## Running This Bad Boy locally
 
 ```bash
+git clone https://github.com/your-username/my-quiz-app.git
+cd my-quiz-app
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Open your browser and go to http://localhost:3000.
