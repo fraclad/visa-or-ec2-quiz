@@ -1,6 +1,6 @@
 {
     "rewrites": [
-      { "source": "/app/ec2-visa-quiz", "destination": "/" }
+      { "source": "/app/ec2-visa-quiz/:path*", "destination": "/" }
     ]
   }
   
