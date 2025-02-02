@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+      { "source": "/app/ec2-visa-quiz", "destination": "/" }
+    ]
+  }
+  
